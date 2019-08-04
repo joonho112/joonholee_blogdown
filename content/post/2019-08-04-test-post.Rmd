@@ -1,0 +1,14 @@
+---
+title: Test post
+author: JoonHo Lee
+date: '2019-08-04'
+slug: test-post
+categories:
+  - R
+tags:
+  - plot
+---
+
+# Test of `new post` command
+
+
