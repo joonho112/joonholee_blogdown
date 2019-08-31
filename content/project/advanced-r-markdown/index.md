@@ -5,7 +5,7 @@ summary: A two-day workshop for those who want to take their R Markdown skills t
 abstract: ""
 date: "2016-04-27T00:00:00Z"
 image:
-  caption: '[Photo by Edoardo Busti on Unsplash](https://unsplash.com/photos/gEdPXT6BKcc)'
+  caption: '[Photo by Edoardo Busti on Unsplash](https://unsplash.com/photos/hpjSkU2UYSU)'
   focal_point: Smart
 links:
 - icon: door-open
