@@ -14,7 +14,7 @@ education:
     institution: University of California, Berkeley
     year: 2015-present
 
-  - course: MA in Education Statistics
+  - course: MA in Educational Statistics
     institution: Seoul National University
     year: 2009-2013
 
@@ -53,3 +53,5 @@ superuser: true
 ---
 
 This website is under construction. 
+
+[Curriculum Vitae](/pdf/CV_JoonHo_Lee_Sept_2019_Extensive_version.pdf)  
