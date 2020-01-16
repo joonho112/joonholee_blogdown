@@ -105,16 +105,14 @@ names(xaringan:::list_css())
 ```
 
 ```
-##  [1] "chocolate-fonts"  "chocolate"        "default-fonts"   
-##  [4] "default"          "duke-blue"        "fc-fonts"        
-##  [7] "fc"               "hygge-duke"       "hygge"           
-## [10] "kunoichi"         "lucy-fonts"       "lucy"            
-## [13] "metropolis-fonts" "metropolis"       "middlebury-fonts"
-## [16] "middlebury"       "ninjutsu"         "rladies-fonts"   
-## [19] "rladies"          "robot-fonts"      "robot"           
-## [22] "rutgers-fonts"    "rutgers"          "shinobi"         
-## [25] "tamu-fonts"       "tamu"             "uo-fonts"        
-## [28] "uo"               "uol-fonts"        "uol"
+##  [1] "chocolate-fonts"  "chocolate"        "default-fonts"    "default"         
+##  [5] "duke-blue"        "fc-fonts"         "fc"               "hygge-duke"      
+##  [9] "hygge"            "kunoichi"         "lucy-fonts"       "lucy"            
+## [13] "metropolis-fonts" "metropolis"       "middlebury-fonts" "middlebury"      
+## [17] "ninjutsu"         "rladies-fonts"    "rladies"          "robot-fonts"     
+## [21] "robot"            "rutgers-fonts"    "rutgers"          "shinobi"         
+## [25] "tamu-fonts"       "tamu"             "uo-fonts"         "uo"              
+## [29] "uol-fonts"        "uol"
 ```
 
 To use a theme, you can specify the `css` option as an array of CSS filenames (without the `.css` extensions), e.g.,
@@ -220,7 +218,7 @@ library(ggplot2)
 ggplot(cars, aes(speed, dist)) + geom_point()
 ```
 
-![](20190923_Full-day_kindergarten-KPCC_interveiw_files/figure-html/cars-1.svg)&lt;!-- --&gt;
+![](20190923_Full-day-kindergarten-KPCC-interveiw_files/figure-html/cars-1.svg)&lt;!-- --&gt;
 
 ---
 
@@ -404,7 +402,24 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     }
     deleted = true;
   });
-})();</script>
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
 
 <script>
 (function() {
