@@ -5,9 +5,14 @@ name = "alison"
 google_fonts = "Arapey:400,400i|Karla:400,700|Roboto+Mono"
 
 # Font families
-heading_font = "Arapey"
-body_font = "Karla"
-nav_font = "Karla"
+#heading_font = "Arapey"
+#body_font = "Karla"
+#nav_font = "Karla"
+#mono_font = "Roboto Mono"
+
+heading_font = "Montserrat"
+body_font = "Roboto"
+nav_font = "Roboto"
 mono_font = "Roboto Mono"
 
 # Font size

@@ -51,11 +51,11 @@ superuser: true
 
 I am currently completing my Ph.D. in Quantitative Methods & Evaluation at the [University of California, Berkeley](https://gse.berkeley.edu/) with an expected degree date of May 2020. 
 
-I study quantitative methods in educational research, with a focus on multilevel and longitudinal modeling, modern approaches to causal inference, and quantile regression. My methodological research centers on understanding and measuring treatment effect heterogeneity in large scale experiments and pseudo-experiments.
+I study quantitative methods in educational research, with a focus on multilevel and longitudinal modeling, modern approaches to causal inference, and quantile regression. My methodological research centers on understanding and measuring treatment effect heterogeneity in large scale experiments and pseudo-experiments in education.
 
 My applied research focuses on funding disparities and student (and teacher) tracking. The key question in my research is why, or through what processes, new school funding typically fails to narrow student achievement gaps. I integrate basic theory of organization to identify and test the mediating effects of teacher staffing and curricular structuring that operate between new funding and student learning. 
 
-My scholarship has been supported by the National Science Foundation and the Kwanjeong Education Foundation, and I am a 2019-2020 [American Educational Research Association (AERA) Dissertation Fellow](https://www.aera.net/Professional-Opportunities-Funding/AERA-Funding-Opportunities/Grants-Program/Dissertation-Grants). After graduation, I am joining the [University of Alabama](https://education.ua.edu/programs/ber/) as an Assistant Professor in Educational Research. 
+My scholarship has been supported by the National Science Foundation and the Kwanjeong Educational Foundation, and I am a 2019-2020 [American Educational Research Association (AERA) Dissertation Fellow](https://www.aera.net/Professional-Opportunities-Funding/AERA-Funding-Opportunities/Grants-Program/Dissertation-Grants). After graduation, I am joining the [University of Alabama](https://education.ua.edu/programs/ber/) as an Assistant Professor in Educational Research. 
 
 For more information, please view: 
 
