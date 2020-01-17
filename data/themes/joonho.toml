@@ -1,11 +1,11 @@
 # Theme metadata
-name = "alison"
+name = "joonho"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#E13D3D"
+primary = "#AF002A"
 
 # Menu
 menu_primary = "#fbf9f4"
