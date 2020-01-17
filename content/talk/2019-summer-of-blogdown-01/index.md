@@ -7,9 +7,9 @@ summary: Create and deploy our first blogdown site "out-of-the-box"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-06-10T09:00:00Z"
-date_end: "2019-06-10T10:00:00Z"
-all_day: false
+date: "2018-06-10T09:00:00Z"
+date_end: "2018-06-10T10:00:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"

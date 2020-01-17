@@ -20,7 +20,8 @@ links:
 
 categories:
 - workshop
-tags: [causal inference, Bayesian methods, Stan]
+
+tags: [R, causal inference, Bayesian methods, Stan]
 
 url_code: ""
 url_pdf: ""
