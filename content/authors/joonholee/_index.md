@@ -49,7 +49,7 @@ social:
 superuser: true
 ---
 
-I am currently completing my Ph.D. in Quantitative Methods & Evaluation at the [University of California, Berkeley](https://gse.berkeley.edu/) with an expected degree date of May 2020. 
+I am completing my Ph.D. in Quantitative Methods & Evaluation at the [University of California, Berkeley](https://gse.berkeley.edu/) with an expected degree date of May 2020. 
 
 I study quantitative methods in educational research, with a focus on multilevel and longitudinal modeling, modern approaches to causal inference, and quantile regression. My methodological research centers on understanding and measuring treatment effect heterogeneity in large scale experiments and quasi-experiments in education.
 
