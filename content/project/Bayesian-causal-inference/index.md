@@ -7,6 +7,7 @@ external_link: ""
 image:
   caption: '[Photo by Chris Liverani on Unsplash](https://unsplash.com/photos/dBI_My696Rk)'
   focal_point: Smart
+  preview_only: true
 
 links:
 - icon: images
@@ -36,7 +37,7 @@ The Bayesian inferential framework introduced by Rubin (1978) defines causal eff
 
 ## Stan Case Studies
 
-- [Model-based Inference for Causal Effects in Completely Randomized Experments](/html/Case-Study01_Model-Based_Inference_for_RCT.html)   
+- [Model-based Inference for Causal Effects in Completely Randomized Experments](/html/Case-Study01_Model-Based_Inference_for_RCT.html)
 
 - Instrumental Variabls Analysis of Randomized Experiments with One-Sided Noncompliance
 
