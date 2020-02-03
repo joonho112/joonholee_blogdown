@@ -35,13 +35,13 @@ In this project, we develop a series of case studies demonstrating the implement
 The Bayesian inferential framework introduced by Rubin (1978) defines causal effects as a comparison of the potential outcomes of the same units and clearly separates the true underlying model of the potential outcomes from the treatment assignment mechanism. Then the framework takes advantage of fully Bayesian posterior predictive inference for multiply-imputing the missing potential outcomes.
 
 
-## Stan Case Studies
 
-- [Model-based Inference for Causal Effects in Completely Randomized Experments](/html/Case-Study01_Model-Based_Inference_for_RCT.html)
+### Stan Case Studies
 
-- Instrumental Variabls Analysis of Randomized Experiments with One-Sided Noncompliance
-
-- Instrumental Variabls Analysis of Randomized Experiments with Two-Sided Noncompliance
-
-- Treament Effect Variations in Multi-Site Trials
+| Number | Title                |
+|:-------|:---------------------|
+| Case Study #01 | [Model-based Inference for Causal Effects in Completely Randomized Experments](/html/Case-Study01_Model-Based_Inference_for_RCT.html) |
+| Case Study #02 | Instrumental Variabls Analysis of Randomized Experiments with One-Sided Noncompliance |
+| Case Study #03 | Instrumental Variabls Analysis of Randomized Experiments with Two-Sided Noncompliance |
+| Case Study #04 | Meta-analysis |
 
