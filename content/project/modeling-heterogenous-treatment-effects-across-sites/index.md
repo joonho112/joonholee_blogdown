@@ -27,9 +27,9 @@ links:
   url: https://github.com/joonho112/Bayesian-causal-inference/tree/master
 
 categories:
-- workshop
+- methods
 
-tags: [R, causal inference, Bayesian methods, Stan]
+tags: [methods, R, causal inference, Bayesian methods, Stan]
 
 url_code: ""
 url_pdf: ""

@@ -10,19 +10,19 @@ image:
   preview_only: true
 
 links:
-- icon: images
-  icon_pack: fas
-  name: materials
-  url: /html/Case-Study01_Model-Based_Inference_for_RCT.html
+# - icon: images
+#   icon_pack: fas
+#   name: materials
+#   url: /html/Case-Study01_Model-Based_Inference_for_RCT.html
 - icon: github
   icon_pack: fab
   name: code
   url: https://github.com/joonho112/Bayesian-causal-inference/tree/master
 
 categories:
-- workshop
+- methods
 
-tags: [R, causal inference, Bayesian methods, Stan]
+tags: [methods, R, causal inference, Bayesian methods, Stan]
 
 url_code: ""
 url_pdf: ""
@@ -38,10 +38,10 @@ The Bayesian inferential framework introduced by Rubin (1978) defines causal eff
 
 ### Stan Case Studies
 
-| Number | Title                |
-|:-------|:---------------------|
-| Case Study #01 | [Model-based Inference for Causal Effects in Completely Randomized Experments](/html/Case-Study01_Model-Based_Inference_for_RCT.html) |
-| Case Study #02 | Instrumental Variabls Analysis of Randomized Experiments with One-Sided Noncompliance |
-| Case Study #03 | Instrumental Variabls Analysis of Randomized Experiments with Two-Sided Noncompliance |
-| Case Study #04 | Meta-analysis |
+| Number | Title |
+|:---|:---|
+| 01 | [Model-based Inference for Causal Effects in Completely Randomized Experiments](/html/Case-Study01_Model-Based_Inference_for_RCT.html) |
+| 02 | Instrumental Variabls Analysis of Randomized Experiments with One-Sided Noncompliance |
+| 03 | Instrumental Variabls Analysis of Randomized Experiments with Two-Sided Noncompliance |
+| 04 | Meta-analysis |
 

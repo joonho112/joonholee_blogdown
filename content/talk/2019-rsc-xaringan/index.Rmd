@@ -24,7 +24,7 @@ featured: no
 image:
   caption: '[Photo by Brooke Lark on Unsplash](https://unsplash.com/photos/4J059aGa5s4)'
   focal_point: ''
-  preview_only: no
+  preview_only: true
 projects: [advanced-r-markdown]
 
 links:
