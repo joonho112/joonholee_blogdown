@@ -1,5 +1,5 @@
 ---
-title: Bayesian Causal Inference
+title: Bayesian causal inference
 date: 2018-06-24T00:00:00
 authors: [JoonHo Lee, Avi Feller, Sophia Rabe-Hesketh]
 summary: Developing a series of Stan case studies demonstrating important concepts in Bayesian causal inference

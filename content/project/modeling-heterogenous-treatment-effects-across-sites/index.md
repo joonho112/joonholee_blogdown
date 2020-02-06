@@ -1,5 +1,5 @@
 ---
-title: Modeling Heterogenous Treatment Effects Across Sites
+title: Modeling heterogenous treatment effects across sites
 
 date: 2020-01-26T00:00:00
 
@@ -44,6 +44,14 @@ Educational researchers and policymakers are increasingly asking questions such 
 The core challenge is how to model the distribution of site-level effects. A convenient, often implicit, modeling assumption is that the distribution is normal, but this could be problematic when the true distribution is multi-modal or heavy-tailed, for instance. In this project, we explore the use of flexible alternatives for modeling the site-level effects distribution and investigate ways to incorporate site-level covariates. The main motivating example is a multi-site randomized evaluation of conditional cash transfer programs in two of the poorest school districts in Bogota, Colombia. We find that standard results relying on normality assumptions mask interesting and important results of this study.
 
 
+
+## Research notes
+
+- Triple-goal estimates in multilevel-models
+
+- The Fay–Herriot heteroskedastic ordered probit (FH-HETOP) model
+
+- Fitting complex Bayesian nonparametric models
 
 
 
