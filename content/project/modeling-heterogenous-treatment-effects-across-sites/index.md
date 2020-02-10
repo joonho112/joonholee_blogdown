@@ -47,11 +47,20 @@ The core challenge is how to model the distribution of site-level effects. A con
 
 ## Research notes
 
+### Simulation design
+
+- Data generating models: Gaussian, T, and a mixture of two normal distributions
+
+
+### Modeling choices
+
 - Triple-goal estimates in multilevel-models
+
+- Empirical Bayes deconvolution estimates 
 
 - The Fay–Herriot heteroskedastic ordered probit (FH-HETOP) model
 
-- Fitting complex Bayesian nonparametric models
+
 
 
 
