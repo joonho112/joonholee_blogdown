@@ -22,10 +22,10 @@ email: "joonho@berkeley.edu"
 
 
 interests:
-- Education finance and policy
-- Educational tracking and stratification
 - Treatment effect heterogeneity
 - Bayesian methods for estimating complex latent variable models
+- School finance and policy
+- Educational tracking and stratification
 
 
 name: JoonHo Lee
