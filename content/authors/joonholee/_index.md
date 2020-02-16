@@ -59,4 +59,4 @@ My scholarship has been supported by the National Science Foundation and the Kwa
 
 For more information, please view: 
 
-[Curriculum Vitae](/pdf/CV_JoonHo_Lee_Jan_2020.pdf)  
+[Curriculum Vitae](/files/cv.pdf)  

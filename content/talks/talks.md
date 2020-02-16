@@ -5,12 +5,12 @@ headless = true  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Projects"
+title = "Courses & Workshops"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "talk"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Method"
-    tag = "method"
+    name = "Course"
+    tag = "course"
     
   [[content.filter_button]]
-    name = "Application"
-    tag = "application"
+    name = "Workshop"
+    tag = "workshop"
 
 
 [design]
@@ -42,7 +42,7 @@ subtitle = ""
   #   1 = List
   #   3 = Card
   #   5 = Showcase
-  view = 1
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true

@@ -22,7 +22,7 @@ links:
 categories:
 - methods
 
-tags: [methods, R, causal inference, Bayesian methods, Stan]
+tags: [method, R, causal inference, Bayesian methods, Stan]
 
 url_code: ""
 url_pdf: ""

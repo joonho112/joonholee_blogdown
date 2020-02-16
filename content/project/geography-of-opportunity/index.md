@@ -29,7 +29,7 @@ links:
 categories:
 - applications
 
-tags: [applications, R, causal inference, Bayesian methods, Stan]
+tags: [application, R, causal inference, Bayesian methods, Stan]
 
 url_code: ""
 url_pdf: ""
