@@ -1,36 +1,40 @@
 ---
-title: Hierarchical Linear Modeling
-subtitle: 'BER 664' 
+title: Hierarchical linear modeling
+
+date: 2020-08-19T00:00:00
+
 authors: [JoonHo Lee]
-event: 
-event_url:
-location: 
-abstract: 
-summary: 'A graduate-level course on data analysis using regression and multilevel/hierarchical models' 
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-08-19T09:00:00Z"
-date_end: "2020-12-15T10:30:00Z"
-all_day: true
+summary: "A graduate-level course on data analysis using regression and multilevel/hierarchical models"
 
-tags:
-  - course
-  - multilevel modeling
+external_link: ""
 
-lastmod: "2020-08-19T10:30:00Z"
-featured: yes
 image:
   caption: '[Photo by Gabriel Sollmann on Unsplash](https://unsplash.com/photos/Y7d265_7i08)'
-  focal_point: ''
+  focal_point: "Center"
   preview_only: true
-projects: [course]
 
 links:
+
 - icon: images
   icon_pack: fas
-  name: slides
-  url: https://arm.rbind.io/slides/xaringan.html#1
+  name: materials
+  url: /html/Case-Study01_Model-Based_Inference_for_RCT.html
+
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/joonho112/Bayesian-causal-inference/tree/master
+
+categories:
+- course
+
+tags: [course, method, multilevel modeling]
+
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 ---
 
 ## Course description 
