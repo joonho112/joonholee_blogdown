@@ -1,7 +1,7 @@
 ---
 title: Hierarchical linear modeling
 
-date: 2020-08-19T00:00:00
+date: 
 
 authors: [JoonHo Lee]
 
