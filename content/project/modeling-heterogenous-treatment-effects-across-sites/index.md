@@ -54,13 +54,39 @@ The core challenge is how to model the distribution of site-level effects. A con
 
 ### Modeling choices
 
-- Triple-goal estimates in multilevel-models
+1. Gaussian 
 
-- Empirical Bayes deconvolution estimates 
+2. T (df = 5)
 
-- The Fay–Herriot heteroskedastic ordered probit (FH-HETOP) model
+3. Dirichlet Process #1 - bumpy, multi-modal G distribution
+
+4. Dirichlet Process #2 - smoother G distribution
+
+5. Empirical Bayes deconvolution estimator (Efron prior)
+
+6. Smoothing by roughening (SBR)      
 
 
+
+### Summary of posterior samples
+
+1. Posterior means
+
+2. Triple-goal estimator
+
+3. Constrained Bayes estimator
+
+
+
+### Results
+
+1. A small illustrative simulation
+
+2. Efficiency of nonparametric data analysis choices for G
+
+3. Robustness of G
+
+4. Estimating ranks
 
 
 
