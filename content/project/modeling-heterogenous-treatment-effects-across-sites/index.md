@@ -56,7 +56,7 @@ The core challenge is how to model the distribution of site-level effects. A con
 
 1. [Gaussian](/html/02_Modeling-choices_01_Gaussian.html) 
 
-2. T (df = 5)
+2. [T (df = 5)](/html/02_Modeling-choices_02_T5.html)
 
 3. Dirichlet Process #1 - bumpy, multi-modal G distribution
 
