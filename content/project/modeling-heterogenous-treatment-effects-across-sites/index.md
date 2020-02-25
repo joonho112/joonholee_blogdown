@@ -49,12 +49,12 @@ The core challenge is how to model the distribution of site-level effects. A con
 
 ### Simulation design
 
-- [Data generating models: Gaussian, T, and a mixture of two Gaussians](/html/Simulation-data-generation.html)
+- [Data generating models: Gaussian, T, and a mixture of two Gaussians](/html/01_Simulation-data-generation.html)
 
 
 ### Modeling choices
 
-1. Gaussian 
+1. [Gaussian](/html/02_Modeling-choices_01_Gaussian.html) 
 
 2. T (df = 5)
 

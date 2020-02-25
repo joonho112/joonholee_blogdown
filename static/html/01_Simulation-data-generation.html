@@ -528,17 +528,11 @@ G \sim f(G),
 ## $`rsr = 10`
 ## [1] 0.09 0.91</code></pre>
 <ol start="4" style="list-style-type: decimal">
-<li>The true population distribution of <span class="math inline">\(G\)</span>
-<ul>
-<li><span class="math inline">\(G\)</span> will be simulated to either follow
-<ol style="list-style-type: decimal">
-<li>a Gaussian distribution with mean 0 and variance 1</li>
-<li>a <span class="math inline">\(T_5\)</span> distribution normalized to have mean 0 and variance 1</li>
-<li>a mixture <span class="math inline">\(0.8 \cdot \mathrm{N}(0, 1) + 0.2 \cdot \mathrm{N}(4, 1)\)</span> that is normalized to have mean 0 and variance 1.</li>
-</ol></li>
-</ul></li>
+<li>The true population distribution of <span class="math inline">\(G\)</span></li>
 </ol>
-<p>Our simulation study is based on the following data-generating and data analysis scenario.</p>
+<ul>
+<li><span class="math inline">\(G\)</span> will be simulated to either follow (1) a Gaussian distribution with mean 0 and variance 1, (2) a <span class="math inline">\(T_5\)</span> distribution normalized to have mean 0 and variance 1, (3) a mixture <span class="math inline">\(0.8 \cdot \mathrm{N}(0, 1) + 0.2 \cdot \mathrm{N}(4, 1)\)</span> that is normalized to have mean 0 and variance 1. Our simulation study is based on the following data-generating and data analysis scenario.</li>
+</ul>
 <div class="sourceCode" id="cb6"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb6-1" title="1"><span class="co">### Set seed </span></a>
 <a class="sourceLine" id="cb6-2" title="2"><span class="kw">set.seed</span>(<span class="dv">10101</span>)</a>
 <a class="sourceLine" id="cb6-3" title="3"></a>
@@ -651,7 +645,7 @@ G \sim f(G),
 <a class="sourceLine" id="cb11-13" title="13"><span class="st">      </span><span class="kw">labs</span>(<span class="dt">title =</span> <span class="kw">bquote</span>(<span class="st">&quot;True vs. Observed &quot;</span> <span class="op">~</span><span class="st"> </span>theta <span class="op">~</span><span class="st">&quot; Distributions&quot;</span>), </a>
 <a class="sourceLine" id="cb11-14" title="14">           <span class="dt">x =</span> <span class="kw">expression</span>(theta)) <span class="op">+</span><span class="st"> </span>theme_preset</a>
 <a class="sourceLine" id="cb11-15" title="15"></a>
-<a class="sourceLine" id="cb11-16" title="16">  <span class="co"># Compare point estimates by sigma_k (cleveland dot chart)</span></a>
+<a class="sourceLine" id="cb11-16" title="16">  <span class="co"># Compare point estimates by sigma_k</span></a>
 <a class="sourceLine" id="cb11-17" title="17">  p2 &lt;-<span class="st"> </span><span class="kw">ggplot</span>(<span class="dt">data =</span> df_G <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">mutate</span>(<span class="dt">gap =</span> <span class="kw">abs</span>(Y <span class="op">-</span><span class="st"> </span>theta)), <span class="kw">aes</span>(<span class="dt">x =</span> sigma2, <span class="dt">y =</span> gap)) <span class="op">+</span><span class="st"> </span></a>
 <a class="sourceLine" id="cb11-18" title="18"><span class="st">      </span><span class="kw">geom_point</span>(<span class="kw">aes</span>(<span class="dt">size =</span> sigma2)) <span class="op">+</span><span class="st"> </span></a>
 <a class="sourceLine" id="cb11-19" title="19"><span class="st">    </span><span class="kw">labs</span>(<span class="dt">title =</span> <span class="kw">bquote</span>(<span class="st">&quot;|Gap between True and Observed| vs. &quot;</span> <span class="op">~</span><span class="st"> </span>sigma<span class="op">^</span><span class="dv">2</span>), </a>
