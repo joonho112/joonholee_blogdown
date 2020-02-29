@@ -16,15 +16,15 @@ image:
 
 links:
 
-- icon: images
-  icon_pack: fas
-  name: materials
-  url: /html/Case-Study01_Model-Based_Inference_for_RCT.html
+# - icon: images
+#   icon_pack: fas
+#   name: materials
+#   url: /html/Case-Study01_Model-Based_Inference_for_RCT.html
 
 - icon: github
   icon_pack: fab
-  name: code
-  url: https://github.com/joonho112/Bayesian-causal-inference/tree/master
+  name: GitHub
+  url: https://github.com/joonho112/meta-analysis
 
 categories:
 - workshop
