@@ -1,19 +1,26 @@
 ---
 title: Bayesian causal inference
+
 date: 2018-06-24T00:00:00
+
 authors: [JoonHo Lee, Avi Feller, Sophia Rabe-Hesketh]
+
 summary: Developing a series of Stan case studies demonstrating important concepts in Bayesian causal inference
+
 external_link: ""
+
 image:
   caption: '[Photo by Chris Liverani on Unsplash](https://unsplash.com/photos/dBI_My696Rk)'
   focal_point: Smart
   preview_only: true
 
 links:
+
 # - icon: images
 #   icon_pack: fas
 #   name: materials
 #   url: /html/Case-Study01_Model-Based_Inference_for_RCT.html
+
 - icon: github
   icon_pack: fab
   name: code
@@ -22,7 +29,7 @@ links:
 categories:
 - methods
 
-tags: [method, R, causal inference, Bayesian methods, Stan]
+tags: [method, Bayesian methods, causal inference, Stan]
 
 url_code: ""
 url_pdf: ""
